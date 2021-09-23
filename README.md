@@ -2,10 +2,10 @@
 HACKERS BOX FOR WINDOWS 10+
 
 ## INSTALL
-``git clone https://gitlab.com/ReconEngine/hackers-box_windows_version
-cd "HACKERS BOX v1.0/WINDOWS VERSION"
-cd Install
-pip3 install -r requirements.txt``
+``git clone https://gitlab.com/ReconEngine/hackers-box_windows_version``
+``cd "HACKERS BOX v1.0/WINDOWS VERSION"``
+``cd Install`
+``pip3 install -r requirements.txt``
 
 ## LAUNCH
 ``python3 Hacker-BOX.py``
